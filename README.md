@@ -1,4 +1,4 @@
-# NIM-App-PasswordReset
+# NIM-App-NIM-PasswordReset
 
 # Description
 Sample Password Reset 
